@@ -1,0 +1,12 @@
+C:\Users\Alex\Desktop\POS\PointOfSale\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe
+C:\Users\Alex\Desktop\POS\PointOfSale\PointOfSale\PointOfSale\bin\Debug\PointOfSale.pdb
+C:\Users\Alex\Desktop\POS\PointOfSale\PointOfSale\PointOfSale\bin\Debug\Display.dll
+C:\Users\Alex\Desktop\POS\PointOfSale\PointOfSale\PointOfSale\bin\Debug\Keypad.dll
+C:\Users\Alex\Desktop\POS\PointOfSale\PointOfSale\PointOfSale\bin\Debug\Display.pdb
+C:\Users\Alex\Desktop\POS\PointOfSale\PointOfSale\PointOfSale\bin\Debug\Keypad.pdb
+C:\Users\Alex\Desktop\POS\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\POS\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Form1.resources
+C:\Users\Alex\Desktop\POS\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Properties.Resources.resources
+C:\Users\Alex\Desktop\POS\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\POS\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.exe
+C:\Users\Alex\Desktop\POS\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.pdb

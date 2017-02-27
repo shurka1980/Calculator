@@ -1,0 +1,12 @@
+C:\MikeB\Projects\PointOfSale\Keypad\bin\Debug\Keypad.dll
+C:\MikeB\Projects\PointOfSale\Keypad\bin\Debug\Keypad.pdb
+C:\MikeB\Projects\PointOfSale\Keypad\obj\Debug\Keypad.csprojResolveAssemblyReference.cache
+C:\MikeB\Projects\PointOfSale\Keypad\obj\Debug\Keypad.dll
+C:\MikeB\Projects\PointOfSale\Keypad\obj\Debug\Keypad.pdb
+C:\Users\Alex\Desktop\POS\PointOfSale\PointOfSale\Keypad\bin\Debug\Keypad.dll
+C:\Users\Alex\Desktop\POS\PointOfSale\PointOfSale\Keypad\bin\Debug\Keypad.pdb
+C:\Users\Alex\Desktop\POS\PointOfSale\PointOfSale\Keypad\obj\Debug\Keypad.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\POS\PointOfSale\PointOfSale\Keypad\obj\Debug\Keypad.RegisterKeypad.resources
+C:\Users\Alex\Desktop\POS\PointOfSale\PointOfSale\Keypad\obj\Debug\Keypad.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\POS\PointOfSale\PointOfSale\Keypad\obj\Debug\Keypad.dll
+C:\Users\Alex\Desktop\POS\PointOfSale\PointOfSale\Keypad\obj\Debug\Keypad.pdb
