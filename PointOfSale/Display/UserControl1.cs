@@ -7,13 +7,13 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace Keypad
+namespace Display
 {
-	public partial class RegisterKeypad : GenericKeypad
-	{
-		public RegisterKeypad()
-		{
-			InitializeComponent();
-		}
-	}
+    public partial class UserControl1: UserControl
+    {
+        public UserControl1()
+        {
+            InitializeComponent();
+        }
+    }
 }
