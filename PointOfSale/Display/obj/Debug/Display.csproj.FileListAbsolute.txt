@@ -3,3 +3,17 @@ C:\MikeB\Projects\PointOfSale\Display\bin\Debug\Display.pdb
 C:\MikeB\Projects\PointOfSale\Display\obj\Debug\Display.csprojResolveAssemblyReference.cache
 C:\MikeB\Projects\PointOfSale\Display\obj\Debug\Display.dll
 C:\MikeB\Projects\PointOfSale\Display\obj\Debug\Display.pdb
+C:\Users\Alex\Desktop\POS\PointOfSale\PointOfSale\Display\bin\Debug\Display.dll
+C:\Users\Alex\Desktop\POS\PointOfSale\PointOfSale\Display\bin\Debug\Display.pdb
+C:\Users\Alex\Desktop\POS\PointOfSale\PointOfSale\Display\obj\Debug\Display.DisplayControl.resources
+C:\Users\Alex\Desktop\POS\PointOfSale\PointOfSale\Display\obj\Debug\Display.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\POS\PointOfSale\PointOfSale\Display\obj\Debug\Display.dll
+C:\Users\Alex\Desktop\POS\PointOfSale\PointOfSale\Display\obj\Debug\Display.pdb
+C:\Users\odchast\Desktop\POS\Calculator-master\Calculator-master\PointOfSale\Display\bin\Debug\Display.dll
+C:\Users\odchast\Desktop\POS\Calculator-master\Calculator-master\PointOfSale\Display\bin\Debug\Display.pdb
+C:\Users\odchast\Desktop\POS\Calculator-master\Calculator-master\PointOfSale\Display\obj\Debug\Display.csprojResolveAssemblyReference.cache
+C:\Users\odchast\Desktop\POS\Calculator-master\Calculator-master\PointOfSale\Display\obj\Debug\Display.DisplayControl.resources
+C:\Users\odchast\Desktop\POS\Calculator-master\Calculator-master\PointOfSale\Display\obj\Debug\Display.DisplayTestControl.resources
+C:\Users\odchast\Desktop\POS\Calculator-master\Calculator-master\PointOfSale\Display\obj\Debug\Display.csproj.GenerateResource.Cache
+C:\Users\odchast\Desktop\POS\Calculator-master\Calculator-master\PointOfSale\Display\obj\Debug\Display.dll
+C:\Users\odchast\Desktop\POS\Calculator-master\Calculator-master\PointOfSale\Display\obj\Debug\Display.pdb

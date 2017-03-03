@@ -10,3 +10,15 @@ C:\Users\Alex\Desktop\POS\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfS
 C:\Users\Alex\Desktop\POS\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.GenerateResource.Cache
 C:\Users\Alex\Desktop\POS\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.exe
 C:\Users\Alex\Desktop\POS\PointOfSale\PointOfSale\PointOfSale\obj\Debug\PointOfSale.pdb
+C:\Users\odchast\Desktop\POS\Calculator-master\Calculator-master\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe
+C:\Users\odchast\Desktop\POS\Calculator-master\Calculator-master\PointOfSale\PointOfSale\bin\Debug\PointOfSale.pdb
+C:\Users\odchast\Desktop\POS\Calculator-master\Calculator-master\PointOfSale\PointOfSale\bin\Debug\Display.dll
+C:\Users\odchast\Desktop\POS\Calculator-master\Calculator-master\PointOfSale\PointOfSale\bin\Debug\Keypad.dll
+C:\Users\odchast\Desktop\POS\Calculator-master\Calculator-master\PointOfSale\PointOfSale\bin\Debug\Display.pdb
+C:\Users\odchast\Desktop\POS\Calculator-master\Calculator-master\PointOfSale\PointOfSale\bin\Debug\Keypad.pdb
+C:\Users\odchast\Desktop\POS\Calculator-master\Calculator-master\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csprojResolveAssemblyReference.cache
+C:\Users\odchast\Desktop\POS\Calculator-master\Calculator-master\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Form1.resources
+C:\Users\odchast\Desktop\POS\Calculator-master\Calculator-master\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Properties.Resources.resources
+C:\Users\odchast\Desktop\POS\Calculator-master\Calculator-master\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.GenerateResource.Cache
+C:\Users\odchast\Desktop\POS\Calculator-master\Calculator-master\PointOfSale\PointOfSale\obj\Debug\PointOfSale.exe
+C:\Users\odchast\Desktop\POS\Calculator-master\Calculator-master\PointOfSale\PointOfSale\obj\Debug\PointOfSale.pdb

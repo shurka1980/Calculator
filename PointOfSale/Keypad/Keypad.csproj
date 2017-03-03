@@ -40,6 +40,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ButtonTestControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ButtonTestControl.Designer.cs">
+      <DependentUpon>ButtonTestControl.cs</DependentUpon>
+    </Compile>
     <Compile Include="GenericKeypad.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -56,6 +62,9 @@
     <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="ButtonTestControl.resx">
+      <DependentUpon>ButtonTestControl.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="RegisterKeypad.resx">
       <DependentUpon>RegisterKeypad.cs</DependentUpon>
     </EmbeddedResource>
